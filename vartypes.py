@@ -15,7 +15,7 @@ print(name_tupple)
 
 # Dictionary Variable Type
 name_dict = {}
-tinydict = {'name': 'john','code':6734, 'dept': 'Software Engineering'}
+tinydict = {'name': 'john','code': 6734, 'dept': 'Software Engineering'}
 name_dict['one'] = 'This is one'
 
 print(name_dict, tinydict.keys())
